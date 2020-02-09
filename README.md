@@ -1,8 +1,8 @@
 # DonorChoose-with-Naive-Bayes
 
-In this project I have applied `Naive Bayse` algorithm on the Donor Choose database. As the dataset have most important features like `Project Title` and `Project Discription` as text, `NB` should give better result than other algorithms.<br>
+In this project I have applied `Naive Bayse` algorithm on the Donor Choose database. As the dataset have most important features like `Project Title` and `Project Description` as text, `NB` should give better result than other algorithms.<br>
 
-I have Created two dataset by vectorizing text features with different technnniques.<br>
+I have Created two dataset by vectorizing text features with different techniques.<br>
 
 **Set1** | Vectorizing text features with `Bag Of Words`<br>
 **Set2** | Vectorizing text features with `TFIDF`<br>
